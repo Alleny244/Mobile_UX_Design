@@ -1,0 +1,102 @@
+body,
+html {
+  height: 100%;
+}
+.bg {
+  background-image: url("../images/registration.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#form {
+  align-items: center;
+  padding-top: 120%;
+}
+#a {
+  background-color: orange;
+  border-radius: 8px;
+  border: 2px solid orange;
+}
+#b {
+  background-color: white;
+  border-radius: 8px;
+  border: 2px solid orange;
+}
+
+#c {
+  background-color: white;
+  border-radius: 8px;
+  border: 2px solid orange;
+  padding-bottom: 50px;
+}
+
+.bg1 {
+  background-image: url("../images/login.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#form1 {
+  align-items: center;
+  padding-top: 90%;
+}
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 3px;
+  text-align: center;
+}
+
+.bg2 {
+  background-image: url("../images/otp.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#partitioned {
+  padding-left: 15px;
+  letter-spacing: 42px;
+
+  background-image: linear-gradient(
+    to left,
+    black 70%,
+    rgba(255, 255, 255, 0) 0%
+  );
+  background-position: bottom;
+  background-size: 50px 2px;
+  background-repeat: repeat-x;
+  background-position-x: 40px;
+  width: 220px;
+  top: 65%;
+}
+
+.bo {
+  background-color: white;
+  border-radius: 8px;
+  border: 2px solid orange;
+}
+
+#d {
+  background-color: orange;
+  border-radius: 8px;
+  border: 2px solid orange;
+}
